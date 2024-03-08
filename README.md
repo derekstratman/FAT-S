@@ -28,3 +28,4 @@ Running FAT-S for WRF:
 python fats_wrf.py -w wrfout_file -o observed_reflectivity.nc -p
 
 where "-p" is a flag to make a 3-panel plot
+![test_fig_step1_10](https://github.com/derekstratman/FAT-S/assets/64940392/351a30e1-977d-4899-a0fb-aa98ff4fd560)
