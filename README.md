@@ -1,7 +1,7 @@
 # FAT-S
 Feature Alignment Technique for thunderStorms (FAT-S)
 
-FAT-S is a Python program developed by Derek Stratman at OU/CIWRO and NOAA/OAR/NSSL to correct thunderstorm displacement errors in convection-allowing models using composite reflectivity. The code can modified for different systems and fields. More details about FAT-S can be found in the references below.
+FAT-S is a Python program developed by Derek Stratman at OU/CIWRO and NOAA/OAR/NSSL to correct thunderstorm displacement errors in convection-allowing models using composite reflectivity. The code can be modified for different systems and fields. More details about FAT-S can be found in the references below.
 
 References for FAT-S:
 
